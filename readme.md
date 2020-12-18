@@ -18,7 +18,7 @@ $ git clone https://github.com/xissshawww/retroHacking-pro.git
 
 ## Install manually
 
-Download the release by clicking [GitHub .zip download](https://github.com/dracula/firefox/archive/master.zip) option and unzip them.
+Download the latest [release](https://github.com/xissshawww/retroHacking-pro/releases) and unzip them.
 
 ## Activating theme
 
